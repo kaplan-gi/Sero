@@ -1,0 +1,348 @@
+filenumber,PatientID,Sex,IBD_Type,Biologic_Type,Steroid_Medication,ASA,Immunomodulators,NucleocapsidSCIndex14po,PosNeg,DiaSorinlevel,SecNucleocapsidSCIndex1,age_COVIDpos,Age_Group,dx_sero_days,dx_secsero_days,sero_convert,Serologydate,Group
+1,,Female,UC,Adalimumab,none,none,none,0.01,negative,,,,Adult,,,0,16-Feb-21,baseline
+2,,Female,CD,Adalimumab,none,none,none,0.02,negative,,,,Elderly,,,0,17-Dec-20,baseline
+3,,Female,CD,Adalimumab,none,none,Methotrexate,0.01,negative,,,,Elderly,,,0,08-Mar-21,baseline
+4,,Female,CD,Adalimumab,none,none,Methotrexate,0.02,negative,,,,Adult,,,0,07-Apr-21,baseline
+5,,Female,CD,Adalimumab,none,none,none,0.02,negative,,,,Adult,,,0,15-Dec-20,baseline
+6,,Female,CD,Adalimumab,none,none,none,0.03,negative,,,,Adult,,,0,14-Jan-21,baseline
+7,,Female,CD,Adalimumab,none,none,none,0.05,negative,,,,Adult,,,0,06-Jan-21,baseline
+8,,Female,CD,Adalimumab,none,none,Azathioprine/Imuran,0.02,negative,,,,Adult,,,0,24-Mar-21,baseline
+9,,Male,CD,Adalimumab,none,none,none,0.66,negative,,,,Adult,,,0,29-Mar-21,baseline
+10,,Female,CD,Adalimumab,none,none,none,0.03,negative,,,,Adult,,,0,11-Jan-21,baseline
+11,,Male,CD,Adalimumab,none,none,Methotrexate,0.02,negative,,,,Adult,,,0,19-Jan-21,baseline
+12,,Male,CD,Adalimumab,none,none,none,0.03,negative,,,,Adult,,,0,19-Dec-20,baseline
+13,,Female,CD,Adalimumab,none,none,none,0.04,negative,,,,Adult,,,0,12-Dec-20,baseline
+14,,Female,CD,Adalimumab,none,none,Methotrexate,0.03,negative,,,,Adult,,,0,14-Jan-21,baseline
+15,,Female,CD,Adalimumab,none,none,none,0.51,negative,,,,Adult,103,,0,12-Mar-21,covid
+16,,Male,CD,Adalimumab,none,none,none,0.04,negative,,,,Adult,,,0,14-Jan-21,baseline
+17,,Male,UC,Adalimumab,none,none,none,3.36,positive,,,,Adult,,,0,14-Dec-20,baseline
+18,,Female,CD,Adalimumab,none,none,none,0.02,negative,,,,Adult,,,0,02-Mar-21,baseline
+19,,Female,CD,Adalimumab,none,none,none,0.03,negative,,,,Adult,,,0,13-Apr-21,baseline
+20,,Female,CD,Adalimumab,none,none,none,0.03,negative,,,,Adult,,,0,01-Mar-21,baseline
+21,,Female,CD,Adalimumab,none,none,none,6.21,positive,,,,Elderly,40,,0,18-Feb-21,covid
+22,,Female,CD,Adalimumab,none,none,none,0.03,negative,,,,Adult,,,0,12-Mar-21,baseline
+23,,Male,CD,Adalimumab,none,none,Methotrexate,0.07,negative,,,,Adult,,,0,12-Dec-20,baseline
+24,,Male,CD,Adalimumab,none,none,none,0.02,negative,,,,Adult,239,,0,18-Jan-21,covid
+25,,Female,CD,Adalimumab,none,none,none,0.01,negative,,,,Adult,,,0,05-Apr-21,baseline
+26,,Male,CD,Adalimumab,none,none,none,0.03,negative,,,,Adult,,,0,08-Feb-21,baseline
+27,,Male,CD,Adalimumab,none,none,none,0.93,negative,,,,Adult,,,0,04-Feb-21,baseline
+28,,Female,CD,Adalimumab,none,none,none,0.02,negative,,,,Elderly,,,0,26-Jan-21,baseline
+29,,Male,CD,Adalimumab,none,none,none,0.02,negative,,,,Elderly,,,0,24-Feb-21,baseline
+30,,Female,CD,Adalimumab,none,none,none,2.83,positive,,,,Adult,30,,0,06-Apr-21,covid
+31,,Female,CD,Adalimumab,none,none,none,0.39,negative,,,,Adult,,,0,12-Feb-21,baseline
+32,,Female,CD,Adalimumab,none,none,Methotrexate,0.57,negative,,,,Adult,43,,0,05-Feb-21,covid
+33,,Male,CD,Adalimumab,none,none,none,0.03,negative,,,,Elderly,,,0,31-Mar-21,baseline
+34,,Female,CD,Adalimumab,Oral budesonide/Cortiment/Entocort,none,none,0.03,negative,,,,Adult,,,0,11-Feb-21,baseline
+35,,Female,CD,Adalimumab,none,none,none,0.05,negative,,,,Adult,,,0,17-Dec-20,baseline
+36,,Female,CD,Adalimumab,none,none,none,0.03,negative,,,,Adult,,,0,23-Mar-21,baseline
+37,,Female,UC,Adalimumab,none,none,none,6.63,positive,,,,Adult,31,,0,16-Dec-20,covid
+38,,Female,CD,Adalimumab,none,none,none,0.02,negative,,,,Adult,,,0,16-Mar-21,baseline
+39,,Male,CD,Adalimumab,none,none,none,0.02,negative,,,,Adult,,,0,25-Jan-21,baseline
+40,,Female,CD,Adalimumab,none,none,none,7.51,positive,,,,Adult,19,,0,24-Dec-20,covid
+41,,Female,CD,Adalimumab,none,none,none,0.01,negative,,,,Adult,,,0,19-Feb-21,baseline
+42,,Male,CD,Adalimumab,none,none,none,0.3,negative,,,,Adult,121,,0,15-Mar-21,covid
+43,,Female,CD,Adalimumab,none,none,none,1.8,positive,,,,Adult,,,0,19-Apr-21,covid
+44,,Female,CD,Adalimumab,none,none,Azathioprine/Imuran,0.02,negative,,,,Adult,,,0,23-Feb-21,baseline
+45,,Female,CD,Adalimumab,none,none,none,2.8,positive,,,,Adult,100,,0,26-Feb-21,covid
+46,,Female,CD,Adalimumab,none,none,none,0.14,negative,,,,Adult,,,0,15-Apr-21,baseline
+47,,Female,CD,Adalimumab,none,none,Methotrexate,0.1,negative,,,,Adult,,,0,15-Jan-21,baseline
+48,,Male,CD,Adalimumab,none,none,Azathioprine/Imuran,0.07,negative,,,,Adult,,,0,20-Jan-21,baseline
+49,,Female,CD,Adalimumab,none,none,none,0.01,negative,,,,Adult,,,0,04-Feb-21,baseline
+50,,Female,CD,Adalimumab,none,none,none,0.04,negative,,,,Adult,,,0,23-Feb-21,baseline
+51,,Female,UC,Adalimumab,none,none,none,1.45,positive,,,,Adult,73,,0,04-Feb-21,covid
+52,,Female,CD,Adalimumab,none,none,none,0.38,negative,,,,Adult,141,,0,25-Feb-21,covid
+53,,Male,CD,Adalimumab,none,none,none,5.81,positive,,,,Adult,51,,0,10-Feb-21,covid
+54,,Female,CD,Adalimumab,Oral Prednisone,none,none,0.05,negative,,,,Elderly,,,0,15-Dec-20,baseline
+55,,Male,CD,Golimumab,none,none,none,0.02,negative,,,,Adult,,,0,10-Feb-21,baseline
+56,,Female,CD,Golimumab,none,none,none,0.02,negative,,,,Adult,,,0,07-Mar-21,baseline
+57,,Male,CD,Golimumab,none,none,Methotrexate,0.04,negative,,,,Adult,,,0,25-Jan-21,baseline
+58,,Female,CD,Golimumab,Oral Prednisone,none,none,0.05,negative,,,,Adult,,,0,13-Jan-21,baseline
+59,,Female,CD,Golimumab,none,none,none,0.02,negative,,,,Adult,,,0,01-Dec-20,baseline
+60,,Male,CD,Inflectra,none,none,none,0.02,negative,,,,Adult,,,0,12-Nov-20,baseline
+61,,Male,UC,Inflectra,none,none,none,0.01,negative,,,,Adult,,,0,26-Mar-21,baseline
+62,,Female,CD,Inflectra,none,none,Azathioprine/Imuran,5.77,positive,,,,Adult,55,,0,30-Mar-21,covid
+63,,Female,CD,Inflectra,none,none,none,0.02,negative,,,,Elderly,,,0,09-Dec-20,baseline
+64,,Male,IBD-U,Inflectra,none,none,Azathioprine/Imuran,0.32,negative,,,,Adult,,,0,20-Apr-21,baseline
+65,,Female,CD,Inflectra,none,none,none,0.05,negative,,,,Adult,,,0,26-Nov-20,baseline
+66,,Male,CD,Inflectra,none,none,Methotrexate,0.23,negative,,,,Adult,,,0,05-Dec-20,baseline
+67,,Female,CD,Inflectra,none,none,none,0.02,negative,,,,Adult,,,0,27-Jan-21,baseline
+68,,Male,IBD-U,Inflectra,none,none,Azathioprine/Imuran,0.32,negative,,,,Adult,,,0,28-Dec-20,baseline
+69,,Female,CD,Inflectra,none,none,Methotrexate,0.03,negative,,,,Adult,,,0,16-Mar-21,baseline
+70,,Female,CD,Inflectra,none,none,Methotrexate,0.01,negative,,,,Adult,,,0,09-Mar-21,baseline
+71,,Male,CD,Inflectra,none,none,none,0.03,negative,,,,Elderly,,,0,19-Apr-21,baseline
+72,,Female,UC,Inflectra,none,none,none,0.03,negative,,,,Adult,,,0,09-Mar-21,baseline
+73,,Female,CD,Inflectra,none,none,none,0.9,negative,,,,Adult,,,0,02-Feb-21,baseline
+74,,Female,UC,Inflectra,none,none,Methotrexate,0.02,negative,,,,Adult,,,0,15-Apr-21,baseline
+75,,Female,CD,Inflectra,none,none,Methotrexate,0.01,negative,,,,Elderly,,,0,16-Feb-21,baseline
+76,,Male,IBD-U,Inflectra,none,none,none,0.01,negative,,,,Adult,,,0,03-Dec-20,baseline
+77,,Female,CD,Inflectra,none,none,none,0.03,negative,,,,Adult,,,0,14-Nov-20,baseline
+78,,Male,UC,Inflectra,none,none,none,0.02,negative,,,,Adult,,,0,09-Apr-21,baseline
+79,,Female,CD,Infliximab,none,none,Azathioprine/Imuran,0.01,negative,,,,Adult,,,0,11-Feb-21,baseline
+80,,Female,CD,Infliximab,none,none,none,0.03,negative,,,,Adult,,,0,17-Dec-20,baseline
+81,,Male,CD,Infliximab,none,none,none,0.26,negative,,,,Adult,,,0,05-Apr-21,baseline
+82,,Female,CD,Infliximab,none,none,none,0.04,negative,,,,Adult,,,0,10-Feb-21,baseline
+83,,Female,CD,Infliximab,none,none,none,0.02,negative,,,,Adult,,,0,16-Feb-21,baseline
+84,,Male,CD,Infliximab,none,none,Methotrexate,0.25,negative,,,,Adult,57,,0,26-Jan-21,covid
+85,,Female,CD,Infliximab,none,none,none,0.03,negative,,,,Adult,,,0,16-Mar-21,baseline
+86,,Male,CD,Infliximab,none,none,none,0.02,negative,,,,Adult,,,0,09-Feb-21,baseline
+87,,Male,CD,Infliximab,none,none,none,0.02,negative,,,,Adult,,,0,19-Mar-21,baseline
+88,,Male,CD,Infliximab,none,none,none,0.02,negative,,,,Adult,,,0,01-Mar-21,baseline
+89,,Female,CD,Infliximab,none,none,none,0.01,negative,,,,Adult,,,0,16-Dec-20,baseline
+90,,Female,UC,Infliximab,none,none,none,0.36,negative,,,,Adult,124,,0,25-Mar-21,covid
+91,,Male,CD,Infliximab,none,none,none,0.02,negative,,,,Elderly,,,0,12-Jan-21,baseline
+92,,Female,CD,Infliximab,none,none,Methotrexate,0.03,negative,,,,Adult,,,0,16-Mar-21,baseline
+93,,Female,CD,Infliximab,none,none,none,0.04,negative,,,,Adult,,,0,28-Jan-21,baseline
+94,,Male,UC,Infliximab,none,none,none,0.03,negative,,,,Elderly,,,0,12-Mar-21,baseline
+95,,Female,CD,Infliximab,none,none,Methotrexate,0.02,negative,,,,Adult,,,0,29-Jan-21,baseline
+96,,Male,CD,Infliximab,Oral Prednisone,none,none,0.01,negative,,,,Adult,,,0,18-Feb-21,baseline
+97,,Male,CD,Infliximab,none,none,none,0.03,negative,,,,Adult,14,,0,23-Dec-20,baseline
+98,,Female,CD,Infliximab,none,none,none,1.88,positive,,,,Adult,68,,0,16-Feb-21,covid
+99,,Male,CD,Infliximab,none,none,none,0.05,negative,,,,Adult,,,0,13-Jan-21,baseline
+100,,Male,UC,Infliximab,none,none,none,0.1,negative,,,,Adult,,,0,10-Dec-20,baseline
+101,,Female,CD,Infliximab,none,none,none,0.04,negative,,,,Adult,,,0,05-Mar-21,baseline
+102,,Male,CD,Infliximab,none,none,none,0.01,negative,,,,Adult,,,0,05-Nov-20,baseline
+103,,Female,CD,Infliximab,none,none,none,0.06,negative,,,,Adult,,,0,30-Mar-21,baseline
+104,,Male,UC,Infliximab,none,Oral 5ASA,Methotrexate,0.03,negative,,,,Adult,,,0,05-Mar-21,baseline
+105,,Male,CD,Infliximab,none,none,Methotrexate,0.02,negative,,,,Adult,,,0,06-Feb-21,baseline
+106,,Female,CD,Infliximab,none,none,none,0.02,negative,,,,Adult,,,0,30-Mar-21,baseline
+107,,Male,CD,Infliximab,none,none,Methotrexate,0.03,negative,,,,Adult,,,0,05-Jan-21,baseline
+108,,Female,CD,Infliximab,none,none,none,0.01,negative,,,,Adult,,,0,11-Feb-21,baseline
+109,,Female,UC,Infliximab,none,none,none,0.03,negative,,,,Adult,,,0,08-Mar-21,baseline
+110,,Male,CD,Infliximab,none,none,Azathioprine/Imuran,0.09,negative,,,,Adult,,,0,07-Apr-21,baseline
+111,,Male,CD,Infliximab,none,none,Methotrexate,0.02,negative,,,,Adult,,,0,20-Jan-21,baseline
+112,,Female,CD,Infliximab,none,none,Methotrexate,0.02,negative,,,,Adult,,,0,28-Jan-21,baseline
+113,,Male,CD,Infliximab,none,none,none,4.28,positive,,,,Adult,12,,0,18-Jan-21,covid
+114,,Male,CD,Infliximab,none,none,none,0.02,negative,,,,Adult,,,0,16-Mar-21,baseline
+115,,Female,CD,Infliximab,none,none,Azathioprine/Imuran,0.03,negative,,,,Adult,,,0,22-Apr-21,baseline
+116,,Male,CD,Infliximab,none,none,none,0.02,negative,,,,Adult,,,0,08-Apr-21,baseline
+117,,Female,CD,Infliximab,none,none,none,0.02,negative,,,,Adult,,,0,07-Jan-21,baseline
+118,,Male,CD,Infliximab,none,none,none,0.06,negative,,,,Adult,,,0,05-Mar-21,baseline
+119,,Male,CD,Infliximab,none,none,none,0.03,negative,,,,Adult,,,0,31-Mar-21,baseline
+120,,Female,CD,Infliximab,none,none,none,1.36,negative,,,,Adult,72,,1,09-Feb-21,covid
+121,,Female,UC,Infliximab,none,none,none,0.03,negative,,,,Adult,,,0,17-Dec-20,baseline
+122,,Male,CD,Infliximab,none,none,none,0.01,negative,,,,Adult,,,0,07-Jan-21,baseline
+123,,Male,UC,Infliximab,none,none,none,0.03,negative,,,,Elderly,,,0,29-Jan-21,baseline
+124,,Male,CD,Infliximab,none,none,Azathioprine/Imuran,0.04,negative,,,,Adult,,,0,16-Dec-20,baseline
+125,,Female,CD,Infliximab,none,none,none,0.03,negative,,,,Adult,,,0,13-Jan-21,baseline
+126,,Male,CD,Infliximab,none,none,Azathioprine/Imuran,0.04,negative,,,,Adult,,,0,03-Apr-21,baseline
+127,,Female,CD,Infliximab,none,none,none,0.02,negative,,,,Adult,,,0,02-Feb-21,baseline
+128,,Male,UC,Infliximab,none,none,none,0.02,negative,,,,Adult,,,0,12-Apr-21,baseline
+129,,Male,CD,Infliximab,none,none,Azathioprine/Imuran,4.19,positive,,,,Adult,113,,0,26-Feb-21,covid
+130,,Male,CD,Infliximab,none,none,Azathioprine/Imuran,0.02,negative,,,,Elderly,,,0,21-Apr-21,baseline
+131,,Male,CD,Infliximab,none,none,none,0.03,negative,,,,Elderly,,,0,02-Feb-21,baseline
+132,,Female,UC,Infliximab,none,none,none,0.04,negative,,,,Adult,,,0,02-Mar-21,baseline
+133,,Male,CD,Infliximab,none,none,Azathioprine/Imuran,0.55,negative,,,,Adult,93,,0,06-Apr-21,covid
+134,,Male,UC,Infliximab,none,none,none,0.77,negative,,,,Adult,164,,0,28-Jan-21,covid
+135,,Female,UC,Infliximab,none,Rectal 5ASA,none,0.08,negative,,,,Adult,,,0,09-Apr-21,baseline
+136,,Male,UC,Infliximab,none,none,Azathioprine/Imuran,0.01,negative,,,,Adult,,,0,05-Feb-21,baseline
+137,,Male,UC,Infliximab,none,yes ,Azathioprine/Imuran,0.02,negative,,,,Adult,,,0,15-Mar-21,baseline
+138,,Female,CD,Infliximab,none,none,Methotrexate,1.61,positive,,,,Adult,110,,1,15-Jan-21,covid
+139,,Male,UC,Infliximab,none,yes ,Methotrexate,0.07,negative,,,,Adult,,,0,22-Feb-21,baseline
+140,,Female,CD,Infliximab,none,none,none,0.03,negative,,,,Adult,,,0,11-Jan-21,baseline
+141,,Female,CD,Infliximab,none,none,none,0.01,negative,,,,Adult,,,0,15-Mar-21,baseline
+142,,Male,UC,Infliximab,none,none,none,0.01,negative,,,,Adult,,,0,04-Mar-21,baseline
+143,,Male,CD,Infliximab,none,Oral 5ASA,Azathioprine/Imuran,0.76,negative,,,,Adult,,,0,12-Mar-21,baseline
+144,,Female,UC,Infliximab,none,none,none,0.01,negative,,,,Adult,,,0,26-Feb-21,baseline
+145,,Male,CD,Infliximab,none,none,Methotrexate,0.03,negative,,,,Adult,,,0,02-Feb-21,baseline
+146,,Male,CD,Infliximab,none,none,none,0.46,negative,,,,Adult,100,,0,13-Mar-21,covid
+147,,Female,CD,Infliximab,none,none,none,0.02,negative,,,,Adult,,,0,05-Feb-21,baseline
+148,,Female,CD,Infliximab,none,none,Methotrexate,1.25,negative,,,,Adult,159,,1,05-Mar-21,covid
+149,,Male,UC,Infliximab,none,none,none,0.05,negative,,,,Adult,,,0,01-Apr-21,baseline
+150,,Male,CD,Infliximab,none,none,none,0.09,negative,,,,Adult,,,0,13-Jan-21,baseline
+151,,Male,CD,Infliximab,none,none,none,0.02,negative,,,,Adult,,,0,17-Feb-21,baseline
+152,,Female,CD,Infliximab,none,none,none,0.02,negative,,,,Adult,,,0,12-Dec-20,baseline
+153,,Female,CD,Infliximab,none,none,none,6.92,positive,,,,Adult,25,,0,09-Dec-20,covid
+154,,Female,CD,Infliximab,none,none,Azathioprine/Imuran,0.02,negative,,,,Adult,,,0,17-Apr-21,baseline
+155,,Male,CD,Infliximab,none,none,none,0.08,negative,,,,Elderly,,,0,16-Mar-21,baseline
+156,,Female,UC,Infliximab,none,none,Methotrexate,0.02,negative,,,,Adult,,,0,01-Mar-21,baseline
+157,,Male,CD,Infliximab,none,none,none,0.02,negative,,,,Adult,,,0,26-Mar-21,baseline
+158,,Female,UC,Infliximab,none,Oral 5ASA,none,0.02,negative,,,,Adult,,,0,13-Jan-21,baseline
+159,,Male,CD,Infliximab,none,none,none,0.08,negative,,,,Adult,,,0,16-Mar-21,baseline
+160,,Female,CD,Infliximab,none,none,none,0.01,negative,,,,Adult,,,0,18-Feb-21,baseline
+161,,Female,CD,Infliximab,none,none,Methotrexate,0.01,negative,,,,Adult,,,0,20-Feb-21,baseline
+162,,Male,UC,Infliximab,none,none,none,0.01,negative,,,,Adult,,,0,02-Mar-21,baseline
+163,,Male,CD,Infliximab,none,none,none,1.66,positive,,,,Adult,68,,0,15-Mar-21,covid
+164,,Male,CD,Infliximab,none,none,none,0.03,negative,,,,Adult,,,0,08-Apr-21,baseline
+165,,Female,CD,Infliximab,none,none,none,0.02,negative,,,,Adult,,,0,03-Dec-20,baseline
+166,,Male,CD,Infliximab,none,none,none,0.06,negative,,,,Adult,,,0,10-Nov-20,baseline
+167,,Male,CD,Infliximab,none,none,none,0.02,negative,,,,Adult,,,0,14-Mar-21,baseline
+168,,Female,CD,Infliximab,none,none,none,3.12,positive,,,,Adult,37,,1,06-Jan-21,covid
+169,,Female,CD,Infliximab,none,none,none,0.02,negative,,,,Adult,,,0,17-Mar-21,baseline
+170,,Male,CD,Infliximab,none,none,none,0.02,negative,,,,Adult,,,0,30-Dec-20,baseline
+171,,Female,UC,Infliximab,none,none,none,0.02,negative,,,,Adult,,,0,04-Feb-21,baseline
+172,,Female,CD,Infliximab,none,none,Azathioprine/Imuran,0.02,negative,,,,Adult,,,0,16-Feb-21,baseline
+173,,Male,UC,Infliximab,none,none,none,0.02,negative,,,,Adult,,,0,25-Jan-21,baseline
+174,,Female,CD,Infliximab,none,none,none,0.54,negative,,,,Adult,37,,0,29-Dec-20,covid
+175,,Male,UC,Tofacitinib,Oral budesonide/Cortiment/Entocort,none,none,3.63,positive,,,,Adult,75,,0,16-Feb-21,covid
+176,,Male,UC,Tofacitinib,none,none,none,0.07,negative,,,,Adult,,,0,17-Dec-20,baseline
+177,,Male,UC,Tofacitinib,none,none,none,0.03,negative,,,,Adult,,,0,17-Dec-20,baseline
+178,,Female,CD,Ustekinumab,none,none,none,0.02,negative,,,,Adult,,,0,12-Apr-21,baseline
+179,,Male,CD,Ustekinumab,none,none,none,0.04,negative,,,,Adult,,,0,06-Jan-21,baseline
+180,,Female,CD,Ustekinumab,none,none,none,0.02,negative,,,,Adult,,,0,04-Jan-21,baseline
+181,,Male,CD,Ustekinumab,none,none,none,0.01,negative,,,,Adult,,,0,24-Feb-21,baseline
+182,,Female,CD,Ustekinumab,Oral Prednisone,none,Methotrexate,0.03,negative,,,,Adult,,,0,23-Dec-20,baseline
+183,,Female,CD,Ustekinumab,none,none,none,0.02,negative,,,,Adult,,,0,26-Feb-21,baseline
+184,,Male,CD,Ustekinumab,none,none,none,0.03,negative,,,,Adult,,,0,29-Dec-20,baseline
+185,,Male,UC,Ustekinumab,none,none,none,0.05,negative,,,,Adult,,,0,06-Jan-21,baseline
+186,,Female,CD,Ustekinumab,none,none,Azathioprine/Imuran,0.05,negative,,,,Adult,,,0,27-Jan-21,baseline
+187,,Female,CD,Ustekinumab,none,none,Methotrexate,0.03,negative,,,,Adult,,,0,03-Mar-21,baseline
+188,,Female,CD,Ustekinumab,none,none,none,0.01,negative,,,,Elderly,,,0,14-Jan-21,baseline
+189,,Male,CD,Ustekinumab,none,none,none,0.02,negative,,,,Adult,,,0,29-Jan-21,baseline
+190,,Male,CD,Ustekinumab,none,none,none,3.05,positive,,,,Adult,60,,0,08-Apr-21,covid
+191,,Male,CD,Ustekinumab,none,none,none,0.04,negative,,,,Adult,,,0,05-Apr-21,baseline
+192,,Female,CD,Ustekinumab,Oral Prednisone,none,none,0.01,negative,,,,Elderly,,,0,21-Jan-21,baseline
+193,,Female,CD,Ustekinumab,none,none,none,0.03,negative,,,,Adult,,,0,11-Dec-20,baseline
+194,,Female,CD,Ustekinumab,none,none,none,0.09,negative,,,,Adult,,,0,23-Dec-20,baseline
+195,,Female,CD,Ustekinumab,none,none,none,0.4,negative,,,,Adult,,,0,28-Jan-21,baseline
+196,,Male,UC,Ustekinumab,none,none,none,0.02,negative,,,,Adult,,,0,12-Feb-21,baseline
+197,,Female,UC,Ustekinumab,none,none,Methotrexate,0.03,negative,,,,Adult,,,0,01-Mar-21,baseline
+198,,Male,UC,Ustekinumab,none,none,none,0.02,negative,,,,Adult,,,0,13-Mar-21,baseline
+199,,Male,CD,Ustekinumab,none,none,none,0.05,negative,,,,Adult,,,0,19-Apr-21,baseline
+200,,Female,CD,Ustekinumab,none,none,none,0.02,negative,,,,Elderly,,,0,14-Mar-21,baseline
+201,,Female,CD,Ustekinumab,none,none,none,0.03,negative,,,,Adult,,,0,01-Apr-21,baseline
+202,,Male,IBD-U,Ustekinumab,none,none,none,0.03,negative,,,,Elderly,,,0,22-Feb-21,baseline
+203,,Male,UC,Ustekinumab,none,none,none,0.01,negative,,,,Elderly,,,0,26-Jan-21,baseline
+204,,Female,CD,Ustekinumab,none,none,none,0.01,negative,,,,Elderly,,,0,04-Feb-21,baseline
+205,,Female,CD,Ustekinumab,none,none,Methotrexate,0.03,negative,,,,Adult,,,0,21-Jan-21,baseline
+206,,Female,CD,Ustekinumab,none,none,none,0.01,negative,,,,Adult,,,0,25-Feb-21,baseline
+207,,Female,CD,Ustekinumab,none,none,none,0.01,negative,,,,Adult,,,0,08-Feb-21,baseline
+208,,Male,CD,Ustekinumab,none,none,none,0.01,negative,,,,Adult,,,0,08-Mar-21,baseline
+209,,Male,CD,Ustekinumab,Oral budesonide/Cortiment/Entocort,none,none,0.07,negative,,,,Adult,,,0,12-Nov-20,baseline
+210,,Male,CD,Ustekinumab,none,none,none,6.6,positive,,,,Elderly,83,,0,20-Apr-21,covid
+211,,Male,CD,Ustekinumab,none,none,none,2.72,positive,,,,Adult,,,0,23-Mar-21,baseline
+212,,Female,CD,Ustekinumab,none,none,Methotrexate,0.03,negative,,,,Adult,,,0,21-Jan-21,baseline
+213,,Female,CD,Ustekinumab,none,none,none,0.01,negative,,,,Elderly,,,0,13-Apr-21,baseline
+214,,Female,CD,Ustekinumab,none,none,none,0.01,negative,,,,Elderly,,,0,04-Feb-21,baseline
+215,,Female,CD,Ustekinumab,none,none,none,1.65,positive,,,,Elderly,103,,0,31-Mar-21,covid
+216,,Male,CD,Ustekinumab,none,none,none,0.02,negative,,,,Elderly,,,0,24-Mar-21,baseline
+217,,Female,CD,Ustekinumab,none,none,none,0.03,negative,,,,Adult,,,0,23-Nov-20,baseline
+218,,Male,CD,Ustekinumab,none,none,none,0.01,negative,,,,Adult,,,0,03-Mar-21,baseline
+219,,Male,CD,Ustekinumab,none,none,none,0.02,negative,,,,Adult,,,0,10-Mar-21,baseline
+220,,Female,CD,Ustekinumab,none,none,none,0.1,negative,,,,Adult,,,0,10-Feb-21,baseline
+221,,Male,CD,Ustekinumab,none,none,none,0.03,negative,,,,Adult,,,0,13-Apr-21,baseline
+222,,Female,UC,Ustekinumab,none,none,none,0.02,negative,,,,Adult,,,0,13-Apr-21,baseline
+223,,Female,CD,Ustekinumab,none,none,none,0.02,negative,,,,Adult,,,0,19-Feb-21,baseline
+224,,Male,CD,Ustekinumab,none,none,none,0.03,negative,,,,Adult,,,0,16-Apr-21,baseline
+225,,Male,CD,Ustekinumab,none,none,none,0.04,negative,,,,Adult,,,0,08-Jan-21,baseline
+226,,Male,CD,Ustekinumab,none,Rectal 5ASA,none,0.01,negative,,,,Elderly,,,0,14-Apr-21,baseline
+227,,Male,CD,Ustekinumab,none,none,none,0.05,negative,,,,Elderly,,,0,12-Jan-21,baseline
+228,,Female,CD,Ustekinumab,none,none,none,0.01,negative,,,,Adult,,,0,24-Mar-21,baseline
+229,,Female,CD,Ustekinumab,none,none,none,0.05,negative,,,,Adult,,,0,31-Mar-21,baseline
+230,,Male,CD,Ustekinumab,none,none,Methotrexate,0.03,negative,,,,Adult,,,0,20-Jan-21,baseline
+231,,Male,CD,Ustekinumab,none,none,none,0.1,negative,,,,Elderly,,,0,28-Dec-20,baseline
+232,,Male,CD,Ustekinumab,none,none,none,0.81,negative,,,,Elderly,,,0,14-Jan-21,baseline
+233,,Female,CD,Ustekinumab,none,none,none,0.03,negative,,,,Elderly,,,0,20-Jan-21,baseline
+234,,Male,CD,Ustekinumab,Oral Prednisone,none,none,0.16,negative,,,,Adult,,,0,21-Dec-20,baseline
+235,,Male,CD,Ustekinumab,none,none,none,0.08,negative,,,,Elderly,,,0,05-Apr-21,baseline
+236,,Female,UC,Ustekinumab,none,none,none,0.03,negative,,,,Adult,,,0,19-Apr-21,baseline
+237,,Male,CD,Ustekinumab,none,none,Azathioprine/Imuran,0.02,negative,,,,Adult,,,0,25-Mar-21,baseline
+238,,Female,CD,Ustekinumab,none,none,none,0.05,negative,,,,Adult,,,0,02-Mar-21,baseline
+239,,Female,CD,Ustekinumab,none,none,none,0.19,negative,,,,Elderly,,,0,25-Mar-21,baseline
+240,,Female,CD,Ustekinumab,none,none,none,0.03,negative,,,,Adult,,,0,18-Feb-21,baseline
+241,,Male,IBD-U,Ustekinumab,none,none,none,0.03,negative,,,,Elderly,,,0,23-Apr-21,baseline
+242,,Male,UC,Ustekinumab,none,none,none,0.06,negative,,,,Adult,,,0,24-Dec-20,baseline
+243,,Male,CD,Ustekinumab,none,none,Azathioprine/Imuran,0.03,negative,,,,Adult,,,0,01-Feb-21,baseline
+244,,Male,CD,Ustekinumab,none,none,none,0.03,negative,,,,Adult,,,0,19-Nov-20,baseline
+245,,Male,CD,Ustekinumab,none,none,none,0.02,negative,,,,Adult,,,0,25-Mar-21,baseline
+246,,Male,CD,Ustekinumab,Oral Prednisone,none,Methotrexate,0.01,negative,,,,Adult,,,0,23-Mar-21,baseline
+247,,Female,CD,Ustekinumab,none,none,none,1.62,positive,,,,Adult,,,0,09-Jan-21,baseline
+248,,Male,CD,Ustekinumab,none,none,none,0.03,negative,,,,Adult,,,0,17-Dec-20,baseline
+249,,Female,CD,Ustekinumab,none,none,Azathioprine/Imuran,0.03,negative,,,,Adult,,,0,04-Feb-21,baseline
+250,,Male,CD,Ustekinumab,none,none,none,0.02,negative,,,,Adult,,,0,09-Mar-21,baseline
+251,,Female,CD,Ustekinumab,none,none,none,0.1,negative,,,,Adult,,,0,01-Mar-21,baseline
+252,,Male,CD,Ustekinumab,none,none,none,0.07,negative,,,,Adult,,,0,09-Apr-21,baseline
+253,,Female,CD,Ustekinumab,none,none,none,0.01,negative,,,,Adult,,,0,08-Jan-21,baseline
+254,,Male,CD,Ustekinumab,none,none,none,0.01,negative,,,,Adult,,,0,24-Feb-21,baseline
+255,,Male,UC,Ustekinumab,none,none,none,0.04,negative,,,,Adult,,,0,20-Dec-20,baseline
+256,,Female,CD,Ustekinumab,none,none,none,0.06,negative,,,,Adult,,,0,06-Apr-21,baseline
+257,,Female,CD,Ustekinumab,none,none,none,0.01,negative,,,,Adult,,,0,02-Feb-21,baseline
+258,,Female,CD,Ustekinumab,none,none,none,0.05,negative,,,,Adult,,,0,30-Mar-21,baseline
+259,,Female,CD,Ustekinumab,none,none,none,0.01,negative,,,,Adult,,,0,12-Feb-21,baseline
+260,,Female,CD,Ustekinumab,none,none,none,0.02,negative,,,,Adult,,,0,11-Feb-21,baseline
+261,,Female,CD,Ustekinumab,none,none,none,0.05,negative,,,,Adult,,,0,18-Mar-21,baseline
+262,,Female,CD,Ustekinumab,none,none,Azathioprine/Imuran,0.04,negative,,,,Adult,,,0,09-Feb-21,baseline
+263,,Female,CD,Ustekinumab,none,none,none,0.6,negative,,,,Adult,,,0,23-Dec-20,baseline
+264,,Male,CD,Ustekinumab,none,none,none,0.02,negative,,,,Adult,123,,0,10-Feb-21,covid
+265,,Female,CD,Ustekinumab,none,none,none,0.01,negative,,,,Adult,,,0,12-Mar-21,baseline
+266,,Female,CD,Ustekinumab,none,none,none,0.03,negative,,,,Adult,,,0,23-Jan-21,baseline
+267,,Male,CD,Ustekinumab,none,none,none,0.01,negative,,,,Adult,,,0,09-Mar-21,baseline
+268,,Female,CD,Ustekinumab,none,none,none,0.3,negative,,,,Elderly,,,0,16-Apr-21,baseline
+269,,Female,CD,Ustekinumab,none,none,none,0.03,negative,,,,Adult,,,0,10-Mar-21,baseline
+270,,Male,CD,Ustekinumab,none,none,none,0.02,negative,,,,Elderly,,,0,05-Mar-21,baseline
+271,,Female,CD,Ustekinumab,none,none,none,0.04,negative,,,,Adult,,,0,20-Apr-21,baseline
+272,,Female,CD,Ustekinumab,none,none,none,0.01,negative,,,,Adult,,,0,19-Feb-21,baseline
+273,,Male,CD,Ustekinumab,none,none,none,6.8,positive,,,,Elderly,22,,0,18-Feb-21,covid
+274,,Female,CD,Ustekinumab,none,none,none,0.02,negative,,,,Adult,,,0,13-Apr-21,baseline
+275,,Male,CD,Ustekinumab,none,none,none,0.03,negative,,,,Adult,,,0,15-Apr-21,baseline
+276,,Female,CD,Vedo_Gol,Oral budesonide/Cortiment/Entocort,none,Methotrexate,0.02,negative,,,,Adult,,,0,28-Dec-20,baseline
+277,,Male,UC,Vedo_Gol,none,none,Methotrexate,0.87,negative,,,,Adult,118,,0,23-Mar-21,covid
+278,,Male,CD,Vedo_Gol,Oral Prednisone,none,none,0.34,negative,,,,Elderly,,,0,08-Jan-21,baseline
+279,,Female,CD,Vedo_Ust,none,none,none,0.02,negative,,,,Adult,,,0,11-Feb-21,baseline
+280,,Female,IBD-U,Vedo_Ust,none,none,Methotrexate,0.01,negative,,,,Adult,,,0,19-Feb-21,baseline
+281,,Female,CD,Vedolizumab,none,none,none,0.04,negative,,,,Adult,,,0,30-Jan-21,baseline
+282,,Male,UC,Vedolizumab,none,none,none,0.01,negative,,,,Adult,,,0,07-Apr-21,baseline
+283,,Female,CD,Vedolizumab,none,none,none,0.03,negative,,,,Adult,,,0,30-Mar-21,baseline
+284,,Female,CD,Vedolizumab,none,none,none,0.42,negative,,,,Adult,,,0,16-Mar-21,baseline
+285,,Female,CD,Vedolizumab,none,none,none,0.02,negative,,,,Adult,,,0,12-Nov-20,baseline
+286,,Female,UC,Vedolizumab,none,none,none,0.02,negative,,,,Adult,,,0,05-Apr-21,baseline
+287,,Male,CD,Vedolizumab,none,none,none,0.01,negative,,,,Adult,,,0,12-Mar-21,baseline
+288,,Male,UC,Vedolizumab,none,none,none,0.35,negative,,,,Adult,215,,0,22-Feb-21,covid
+289,,Male,UC,Vedolizumab,none,none,none,0.03,negative,,,,Elderly,,,0,23-Oct-20,baseline
+290,,Female,CD,Vedolizumab,none,none,none,0.03,negative,,,,Adult,,,0,21-Dec-20,baseline
+291,,Female,CD,Vedolizumab,none,none,Methotrexate,0.03,negative,,,,Adult,,,0,30-Dec-20,baseline
+292,,Female,CD,Vedolizumab,none,none,none,5.3,positive,,,,Elderly,24,,0,18-Feb-21,covid
+293,,Female,CD,Vedolizumab,none,none,none,0.02,negative,,,,Elderly,,,0,16-Apr-21,baseline
+294,,Male,CD,Vedolizumab,none,none,none,0.03,negative,,,,Adult,,,0,03-Mar-21,baseline
+295,,Female,CD,Vedolizumab,Oral budesonide/Cortiment/Entocort,Oral 5ASA,none,0.04,negative,,,,Adult,,,0,28-Oct-20,baseline
+296,,Female,CD,Vedolizumab,Oral budesonide/Cortiment/Entocort,none,none,0.06,negative,,,,Adult,,,0,06-Jan-21,baseline
+297,,Female,CD,Vedolizumab,none,none,none,0.04,negative,,,,Adult,,,0,20-Nov-20,baseline
+298,,Male,CD,Vedolizumab,none,none,none,0.02,negative,,,,Elderly,,,0,04-Jan-21,baseline
+299,,Female,CD,Vedolizumab,none,none,none,0.29,negative,,,,Adult,,,0,30-Nov-20,baseline
+300,,Female,CD,Vedolizumab,none,none,none,1.22,negative,,,,Elderly,329,,0,25-Feb-21,covid
+301,,Male,CD,Vedolizumab,none,none,none,0.07,negative,,,,Adult,,,0,21-Jan-21,baseline
+302,,Male,CD,Vedolizumab,none,none,none,0.11,negative,,,,Adult,,,0,08-Mar-21,baseline
+303,,Female,CD,Vedolizumab,none,none,none,0.15,negative,,,,Adult,,,0,24-Mar-21,baseline
+304,,Female,CD,Vedolizumab,none,none,none,0.02,negative,,,,Adult,,,0,09-Nov-20,baseline
+305,,Female,CD,Vedolizumab,none,none,none,0.01,negative,,,,Adult,,,0,25-Mar-21,baseline
+306,,Male,UC,Vedolizumab,none,none,none,0.13,negative,,,,Elderly,,,0,19-Mar-21,baseline
+307,,Female,CD,Vedolizumab,none,none,none,0.01,negative,,,,Elderly,,,0,09-Feb-21,baseline
+308,,Female,UC,Vedolizumab,none,none,none,0.14,negative,,,,Adult,,,0,12-Dec-20,baseline
+309,,Female,CD,Vedolizumab,none,none,none,0.1,negative,,,,Elderly,,,0,21-Jan-21,baseline
+310,,Male,CD,Vedolizumab,Oral budesonide/Cortiment/Entocort,none,none,0.14,negative,,,,Elderly,,,0,21-Apr-21,baseline
+311,,Female,UC,Vedolizumab,none,Oral 5ASA,none,5.44,positive,,,,Adult,19,,0,13-Feb-21,covid
+312,,Male,CD,Vedolizumab,none,none,none,0.05,negative,,,,Adult,,,0,05-Mar-21,baseline
+313,,Female,CD,Vedolizumab,none,none,none,0.03,negative,,,,Adult,,,0,28-Nov-20,baseline
+314,,Female,CD,Vedolizumab,none,none,none,0.08,negative,,,,Adult,,,0,19-Dec-20,baseline
+315,,Female,CD,Vedolizumab,none,none,none,0.02,negative,,,,Adult,,,0,29-Mar-21,baseline
+316,,Female,UC,Vedolizumab,none,none,none,0.07,negative,,,,Adult,,,0,16-Nov-20,baseline
+317,,Female,CD,Vedolizumab,none,none,none,0.04,negative,,,,Adult,,,0,05-Nov-20,baseline
+318,,Female,CD,Vedolizumab,none,none,none,0.04,negative,,,,Adult,,,0,08-Dec-20,baseline
+319,,Male,CD,Vedolizumab,none,none,none,0.25,negative,,,,Adult,263,,0,08-Jan-21,covid
+320,,Female,UC,Vedolizumab,none,Oral 5ASA,none,0.04,negative,,,,Adult,,,0,15-Mar-21,baseline
+321,,Male,CD,Vedolizumab,none,none,none,0.09,negative,,,,Adult,,,0,14-Dec-20,baseline
+322,,Female,CD,Vedolizumab,none,none,none,0.06,negative,,,,Adult,,,0,25-Jan-21,baseline
+323,,Male,CD,Vedolizumab,none,none,none,0.02,negative,,,,Adult,,,0,24-Nov-20,baseline
+324,,Female,CD,Vedolizumab,none,none,none,0.05,negative,,,,Adult,,,0,21-Dec-20,baseline
+325,,Female,UC,Vedolizumab,none,none,none,0.02,negative,,,,Adult,,,0,08-Mar-21,baseline
+326,,Female,CD,Vedolizumab,none,none,none,0.16,negative,,,,Adult,,,0,27-Jan-21,baseline
+327,,Male,CD,Vedolizumab,none,none,none,0.01,negative,,,,Adult,,,0,13-Jan-21,baseline
+328,,Female,CD,Vedolizumab,none,none,none,0.03,negative,,,,Adult,,,0,22-Mar-21,baseline
+329,,Female,CD,Vedolizumab,none,none,none,0.01,negative,,,,Adult,,,0,12-Feb-21,baseline
+330,,Female,CD,Vedolizumab,none,none,none,0.01,negative,,,,Adult,,,0,25-Jan-21,baseline
+331,,Male,CD,none,none,yes ,none,0.01,negative,,,,Elderly,,,0,23-Apr-21,baseline
+332,,Female,UC,none,none,none,Azathioprine/Imuran,0.02,negative,,,,Adult,,,0,01-Mar-21,baseline
+333,,Female,UC,none,none,Oral 5ASA,none,0.94,negative,,,,Adult,93,,0,08-Mar-21,covid
+334,,Male,CD,none,none,none,Azathioprine/Imuran,0.01,negative,,,,Elderly,,,0,12-Apr-21,baseline
+335,,Female,UC,none,none,none,none,0.02,negative,,,,Adult,,,0,18-Dec-20,baseline
+336,,Female,UC,none,none,Oral 5ASA,none,4.28,positive,,,,Adult,78,,0,01-Feb-21,covid
+337,,Male,CD,none,none,none,none,0.02,negative,,,,Elderly,,,0,12-Apr-21,baseline
+338,,Female,UC,none,none,Both oral/Rectal,Azathioprine/Imuran,0.23,negative,,,,Adult,203,,0,15-Mar-21,covid
+339,,Male,UC,none,Oral budesonide/Cortiment/Entocort,Oral 5ASA,none,0.01,negative,,,,Elderly,,,0,05-Apr-21,baseline
+340,,Male,UC,none,none,Oral 5ASA,none,0.03,negative,,,,Elderly,,,0,24-Apr-21,baseline
+341,,Female,CD,none,none,none,none,0.03,negative,,,,Elderly,,,0,21-Apr-21,baseline
+342,,Male,UC,none,Oral Prednisone,yes ,none,0.06,negative,,,,Adult,,,0,15-Mar-21,baseline
+343,,Female,UC,none,none,Both oral/Rectal,none,0.06,negative,,,,Adult,83,,0,18-Dec-20,covid
+344,,Female,UC,none,none,none,none,3.53,positive,,,,Adult,87,,0,10-Feb-21,covid
+345,,Female,UC,none,none,Oral 5ASA,none,0.24,negative,,,,Adult,393,,0,13-Apr-21,covid
+346,,Male,UC,none,none,none,Azathioprine/Imuran,6.41,positive,,,,Adult,49,,0,01-Apr-21,covid
+347,,Male,UC,other,none,Oral 5ASA,none,0.08,negative,,,,Adult,209,,0,10-Feb-21,covid
