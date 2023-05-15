@@ -1,0 +1,213 @@
+﻿index,rbdvalue,rbdserocon,collectiondate,studyidshifted,sex,IBDtype,COVID1,pv4,bivalentdate,covhis,crohn,vcategory,medclass,vtype,agevaccine,agevac65
+1,3581,Positive,2022-08-20,6266,Female,UC,,2022-04-20,,1,0,Post-4th Dose (8+),Anti-TNF,Pfizer,44,0
+2,2230,Positive,2022-05-19,6266,Female,UC,,2022-04-20,,0,0,Post-4th Dose (1-8),Anti-TNF,Pfizer,44,0
+3,40000,Positive,2022-08-25,6268,Female,CD,2022-04-26,2022-04-13,2022-10-19,1,1,Post-4th Dose (8+),No Immunosuppressives,Pfizer,85,1
+4,50000,Positive,2022-05-26,6268,Female,CD,2022-04-26,2022-04-13,2022-10-19,1,1,Post-4th Dose (1-8),No Immunosuppressives,Pfizer,85,1
+5,35727,Positive,2023-02-15,6272,Female,UC,,2022-07-26,2023-01-21,0,0,Post-Bivalent Dose (1-8),No Immunosuppressives,Pfizer,53,0
+6,18507,Positive,2022-06-16,6277,Female,CD,2021-08-29,2022-04-15,2022-11-15,1,1,Post-4th Dose (8+),Anti-TNF,Pfizer,61,0
+7,23877,Positive,2023-03-09,6278,Male,UC,,2022-07-29,2023-02-09,0,0,Post-Bivalent Dose (1-8),No Immunosuppressives,Pfizer,39,0
+8,24113,Positive,2022-05-16,6279,Male,UC,,2022-04-13,2022-10-18,1,0,Post-4th Dose (1-8),Other,Pfizer,73,1
+9,13741,Positive,2022-08-05,6279,Male,UC,,2022-04-13,2022-10-18,1,0,Post-4th Dose (8+),Other,Pfizer,73,1
+10,50000,Positive,2022-11-30,6286,Male,CD,,,2022-10-30,0,1,Post-Bivalent Dose (1-8),Anti-TNF,Pfizer,31,0
+11,36,Negative,2022-06-06,6288,Male,CD,,2022-04-04,2022-10-27,0,1,Post-4th Dose (8+),Other,Moderna,73,1
+12,4338,Positive,2022-08-24,6291,Male,UC,2022-12-17,2022-04-07,,0,0,Post-4th Dose (8+),No Immunosuppressives,Pfizer,75,1
+13,28848,Positive,2022-05-05,6291,Male,UC,2022-12-17,2022-04-07,,0,0,Post-4th Dose (1-8),No Immunosuppressives,Pfizer,75,1
+14,19571,Positive,2022-06-22,6292,Female,CD,,2022-05-18,2022-10-06,0,1,Post-4th Dose (1-8),No Immunosuppressives,Pfizer,71,1
+15,4900,Positive,2022-04-14,6294,Female,CD,,2022-02-23,2022-10-15,0,1,Post-4th Dose (1-8),No Immunosuppressives,Moderna,27,0
+16,11857,Positive,2022-08-30,6300,Male,CD,,2022-04-14,2022-10-18,1,1,Post-4th Dose (8+),Vedo/Uste,Pfizer,55,0
+17,50000,Positive,2023-02-21,6301,Male,CD,2023-08-11,2022-05-17,2022-12-29,0,1,Post-Bivalent Dose (1-8),No Immunosuppressives,Pfizer,53,0
+18,1387,Positive,2023-03-20,6315,Female,CD,,2022-04-19,2022-10-26,0,1,Post-Bivalent Dose (8+),Anti-TNF,Moderna,68,1
+19,861,Positive,2022-11-25,6318,Female,CD,,2022-03-31,2022-10-28,0,1,Post-Bivalent Dose (1-8),Other,Pfizer,55,0
+20,448,Positive,2023-03-14,6318,Female,CD,,2022-03-31,2022-10-28,0,1,Post-Bivalent Dose (8+),Other,Pfizer,55,0
+21,50000,Positive,2023-02-14,6323,Male,CD,2022-08-22,2022-07-20,2023-02-01,1,1,Post-Bivalent Dose (1-8),No Immunosuppressives,Pfizer,70,1
+22,50000,Positive,2023-03-09,6326,Female,CD,2022-04-28,2022-02-02,2022-11-08,1,1,Post-Bivalent Dose (8+),Vedo/Uste,Pfizer,50,0
+23,4040,Positive,2022-05-26,6336,Male,UC,,2022-02-25,2022-10-21,0,0,Post-4th Dose (8+),Anti-TNF,Pfizer,67,1
+24,22632,Positive,2022-05-06,6348,Male,CD,,2022-04-07,,0,1,Post-4th Dose (1-8),Anti-TNF,Pfizer,35,0
+25,50000,Positive,2022-05-19,6354,Female,CD,2022-02-03,2022-04-24,2022-11-04,1,1,Post-4th Dose (1-8),Vedo/Uste,Pfizer,67,1
+26,50000,Positive,2023-03-21,6356,Male,CD,2022-11-30,2022-02-07,2022-10-24,1,1,Post-Bivalent Dose (8+),No Immunosuppressives,Pfizer,56,0
+27,5158,Positive,2022-06-08,6365,Male,UC,,2022-02-02,2022-12-01,0,0,Post-4th Dose (8+),Anti-TNF,Moderna,43,0
+28,15247,Positive,2023-02-28,6371,Male,UC,,,2023-01-18,0,0,Post-Bivalent Dose (1-8),No Immunosuppressives,Moderna,58,0
+29,1914,Positive,2022-06-20,6374,Male,CD,2022-11-28,2022-02-17,2022-10-03,0,1,Post-4th Dose (8+),Anti-TNF,Pfizer,50,0
+30,14690,Positive,2022-02-28,6374,Male,CD,2022-11-28,2022-02-17,2022-10-03,0,1,Post-4th Dose (1-8),Anti-TNF,Pfizer,50,0
+31,42264,Positive,2022-03-08,6380,Female,CD,,2022-02-22,2022-10-12,0,1,Post-4th Dose (1-8),Anti-TNF,Pfizer,65,0
+32,7844,Positive,2022-06-22,6380,Female,CD,,2022-02-22,2022-10-12,0,1,Post-4th Dose (8+),Anti-TNF,Pfizer,65,0
+33,762,Positive,2022-07-04,6388,Male,CD,,2022-01-31,2022-09-23,0,1,Post-4th Dose (8+),Anti-TNF,Pfizer,51,0
+34,1556,Positive,2022-07-29,6401,Male,CD,,2022-03-18,2022-09-21,0,1,Post-4th Dose (8+),Anti-TNF,Pfizer,65,0
+35,4252,Positive,2022-04-04,6401,Male,CD,,2022-03-18,2022-09-21,0,1,Post-4th Dose (1-8),Anti-TNF,Pfizer,65,0
+36,2997,Positive,2022-03-31,6415,Male,CD,,2022-03-11,2022-10-24,0,1,Post-4th Dose (1-8),Anti-TNF,Pfizer,42,0
+37,20410,Positive,2022-06-14,6418,Male,IBD-U,,2022-05-03,,0,0,Post-4th Dose (1-8),Vedo/Uste,Pfizer,55,0
+38,12841,Positive,2022-04-29,6424,Male,CD,2022-10-29,2022-04-01,2023-02-09,0,1,Post-4th Dose (1-8),Vedo/Uste,Pfizer,48,0
+39,1995,Positive,2022-12-14,6425,Female,UC,,,2022-11-20,1,0,Post-Bivalent Dose (1-8),Anti-TNF,Pfizer,65,1
+40,1432,Positive,2023-03-27,6425,Female,UC,,,2022-11-20,0,0,Post-Bivalent Dose (8+),Anti-TNF,Pfizer,65,1
+41,50000,Positive,2022-06-20,6430,Male,CD,,2022-02-04,2023-01-16,1,1,Post-4th Dose (8+),Vedo/Uste,Moderna,56,0
+42,46310,Positive,2022-06-13,6431,Male,CD,,2022-05-25,2022-11-10,0,1,Post-4th Dose (1-8),Vedo/Uste,Pfizer,73,1
+43,998,Positive,2023-02-10,6438,Male,CD,,2022-02-06,2022-10-18,0,1,Post-Bivalent Dose (8+),Anti-TNF,Moderna,81,1
+44,31408,Positive,2021-12-29,6440,Male,UC,,2021-12-09,2022-09-24,0,0,Post-4th Dose (1-8),Vedo/Uste,Pfizer,63,0
+45,45728,Positive,2022-03-03,6453,Female,CD,,2022-02-07,2022-09-30,1,1,Post-4th Dose (1-8),Anti-TNF,Moderna,60,0
+46,8609,Positive,2022-06-16,6453,Female,CD,,2022-02-07,2022-09-30,1,1,Post-4th Dose (8+),Anti-TNF,Moderna,60,0
+47,21,Negative,2022-07-11,6467,Male,CD,,2022-03-14,2023-01-06,0,1,Post-4th Dose (8+),Anti-TNF,Pfizer,74,1
+48,395,Positive,2022-03-19,6474,Female,CD,,2022-02-09,2022-10-03,0,1,Post-4th Dose (1-8),Anti-TNF,Pfizer,44,0
+49,23701,Positive,2022-08-04,6478,Female,UC,,2022-05-25,,0,0,Post-4th Dose (8+),No Immunosuppressives,Moderna,73,1
+50,14366,Positive,2022-06-15,6480,Male,UC,,2022-03-16,,1,0,Post-4th Dose (8+),Anti-TNF,Pfizer,23,0
+51,48765,Positive,2023-01-06,6487,Female,CD,,2022-04-19,2022-12-22,0,1,Post-Bivalent Dose (1-8),Anti-TNF,Pfizer,31,0
+52,43519,Positive,2022-11-02,6489,Female,CD,,2022-04-04,2022-09-21,0,1,Post-Bivalent Dose (1-8),Vedo/Uste,Moderna,57,0
+53,22935,Positive,2023-02-28,6494,Female,CD,2023-03-04,,2022-10-17,0,1,Post-Bivalent Dose (8+),Anti-TNF,Pfizer,53,0
+54,8989,Positive,2023-03-09,6765,Male,UC,,2022-03-27,2022-10-18,0,0,Post-Bivalent Dose (8+),Vedo/Uste,Moderna,69,1
+55,4028,Positive,2022-06-20,6767,Female,UC,2022-04-26,2022-02-04,,1,0,Post-4th Dose (8+),Anti-TNF,Moderna,49,0
+56,4732,Positive,2022-03-01,6767,Female,UC,2022-04-26,2022-02-04,,1,0,Post-4th Dose (1-8),Anti-TNF,Moderna,49,0
+57,4553,Positive,2022-04-09,6783,Female,CD,,2022-03-31,,0,1,Post-4th Dose (1-8),Anti-TNF,Pfizer,59,0
+58,12658,Positive,2022-03-10,6786,Female,CD,,2021-12-09,2022-10-05,0,1,Post-4th Dose (8+),No Immunosuppressives,Pfizer,34,0
+59,6476,Positive,2022-05-24,6787,Male,CD,,2022-04-07,,0,1,Post-4th Dose (1-8),Anti-TNF,Pfizer,45,0
+60,546,Positive,2023-03-13,6802,Female,CD,,2022-03-28,2022-10-28,0,1,Post-Bivalent Dose (8+),Anti-TNF,Pfizer,70,1
+61,50000,Positive,2023-03-28,6818,Female,CD,,2022-02-16,2022-11-17,0,1,Post-Bivalent Dose (8+),Vedo/Uste,Pfizer,57,0
+62,50000,Positive,2022-12-07,6818,Female,CD,,2022-02-16,2022-11-17,0,1,Post-Bivalent Dose (1-8),Vedo/Uste,Pfizer,57,0
+63,50000,Positive,2022-03-18,6834,Female,CD,2022-02-03,2022-02-17,,1,1,Post-4th Dose (1-8),Anti-TNF,Pfizer,26,0
+64,38668,Positive,2022-12-28,6839,Male,CD,2020-05-25,2022-05-09,2022-11-30,1,1,Post-Bivalent Dose (1-8),Anti-TNF,Pfizer,51,0
+65,35054,Positive,2022-06-10,6846,Female,CD,2023-01-16,2022-05-27,,0,1,Post-4th Dose (1-8),Anti-TNF,Pfizer,64,0
+66,8970,Positive,2023-01-05,6848,Female,CD,,2022-03-08,2022-11-22,0,1,Post-Bivalent Dose (1-8),Anti-TNF,Pfizer,59,0
+67,27402,Positive,2023-01-17,6849,Male,UC,2021-07-22,2022-07-23,2022-12-17,1,0,Post-Bivalent Dose (1-8),Anti-TNF,Pfizer,63,0
+68,3274,Positive,2022-05-24,6850,Female,CD,2020-11-30,2022-04-28,,1,1,Post-4th Dose (1-8),Anti-TNF,Pfizer,60,0
+69,1665,Positive,2022-08-04,6850,Female,CD,2020-11-30,2022-04-28,,1,1,Post-4th Dose (8+),Anti-TNF,Pfizer,60,0
+70,6290,Positive,2022-09-01,6852,Female,CD,2022-05-24,2022-04-21,2022-10-26,1,1,Post-4th Dose (8+),Other,Pfizer,68,1
+71,25167,Positive,2022-11-09,6856,Male,CD,,2022-05-09,2022-10-11,1,1,Post-Bivalent Dose (1-8),Anti-TNF,Moderna,40,0
+72,13969,Positive,2023-03-02,6856,Male,CD,,2022-05-09,2022-10-11,1,1,Post-Bivalent Dose (8+),Anti-TNF,Moderna,40,0
+73,5726,Positive,2022-04-19,6858,Male,CD,2022-09-11,2022-03-03,,0,1,Post-4th Dose (1-8),Anti-TNF,Pfizer,64,0
+74,2051,Positive,2022-07-21,6858,Male,CD,2022-09-11,2022-03-03,,0,1,Post-4th Dose (8+),Anti-TNF,Pfizer,64,0
+75,10573,Positive,2022-08-19,6864,Male,CD,2022-01-15,2022-04-27,2022-12-01,1,1,Post-4th Dose (8+),Vedo/Uste,Pfizer,61,0
+76,7758,Positive,2023-03-24,6875,Female,CD,,,2022-12-14,0,1,Post-Bivalent Dose (8+),Vedo/Uste,Moderna,59,0
+77,50000,Positive,2023-02-01,6876,Female,CD,,2022-05-17,2022-10-17,0,1,Post-Bivalent Dose (8+),Vedo/Uste,Moderna,56,0
+78,14613,Positive,2022-10-25,6919,Female,CD,,2022-03-23,2022-10-02,0,1,Post-Bivalent Dose (1-8),Anti-TNF,Moderna,69,1
+79,6072,Positive,2023-02-07,6919,Female,CD,,2022-03-23,2022-10-02,0,1,Post-Bivalent Dose (8+),Anti-TNF,Moderna,69,1
+80,1522,Positive,2023-03-31,6921,Male,CD,2022-07-17,,2022-12-23,1,1,Post-Bivalent Dose (8+),Anti-TNF,Pfizer,58,0
+81,11908,Positive,2023-01-06,6921,Male,CD,2022-07-17,,2022-12-23,1,1,Post-Bivalent Dose (1-8),Anti-TNF,Pfizer,58,0
+82,50000,Positive,2022-05-30,6929,Male,CD,,2022-04-14,2022-10-24,1,1,Post-4th Dose (1-8),Vedo/Uste,Pfizer,71,1
+83,25238,Positive,2023-03-30,6960,Male,CD,,2022-05-11,2022-10-27,0,1,Post-Bivalent Dose (8+),Vedo/Uste,Moderna,77,1
+84,13766,Positive,2023-02-13,6966,Female,CD,,2022-03-19,2022-10-24,0,1,Post-Bivalent Dose (8+),Vedo/Uste,Pfizer,67,1
+85,601,Positive,2022-06-26,6968,Female,CD,,2022-03-17,,0,1,Post-4th Dose (8+),Other,Pfizer,51,0
+86,27306,Positive,2023-03-11,6970,Female,CD,,2022-02-04,2022-10-15,0,1,Post-Bivalent Dose (8+),Vedo/Uste,Moderna,47,0
+87,45096,Positive,2022-10-26,6970,Female,CD,,2022-02-04,2022-10-15,0,1,Post-Bivalent Dose (1-8),Vedo/Uste,Moderna,47,0
+88,13849,Positive,2023-02-08,6971,Female,UC,2022-01-26,,2022-10-11,1,0,Post-Bivalent Dose (8+),Other,Moderna,44,0
+89,21,Negative,2022-03-24,6977,Male,CD,,2022-03-07,2022-10-14,0,1,Post-4th Dose (1-8),Other,Pfizer,85,1
+90,21,Negative,2022-07-15,6977,Male,CD,,2022-03-07,2022-10-14,0,1,Post-4th Dose (8+),Other,Pfizer,85,1
+91,4445,Positive,2022-11-10,6980,Female,UC,2022-05-25,2022-02-15,2022-09-27,1,0,Post-Bivalent Dose (1-8),Anti-TNF,Moderna,49,0
+92,10661,Positive,2023-03-09,6987,Male,CD,2021-12-17,2022-06-09,2023-01-25,1,1,Post-Bivalent Dose (1-8),No Immunosuppressives,Pfizer,49,0
+93,11275,Positive,2022-08-02,6990,Female,CD,,2022-03-21,2022-11-17,0,1,Post-4th Dose (8+),Anti-TNF,Pfizer,66,1
+94,50000,Positive,2022-10-05,6996,Male,CD,,2022-02-14,2022-09-21,0,1,Post-Bivalent Dose (1-8),Vedo/Uste,Moderna,73,1
+95,45915,Positive,2023-02-06,6996,Male,CD,,2022-02-14,2022-09-21,0,1,Post-Bivalent Dose (8+),Vedo/Uste,Moderna,73,1
+96,16237,Positive,2022-02-01,6999,Female,CD,2021-10-12,2022-01-24,2022-10-06,1,1,Post-4th Dose (1-8),Anti-TNF,Pfizer,25,0
+97,2348,Positive,2022-01-26,7007,Male,CD,,2021-09-01,2023-02-17,0,1,Post-4th Dose (8+),Vedo/Uste,Pfizer,61,0
+98,17054,Positive,2021-10-06,7007,Male,CD,,2021-09-01,2023-02-17,0,1,Post-4th Dose (1-8),Vedo/Uste,Pfizer,61,0
+99,28814,Positive,2023-03-02,7009,Female,UC,2022-06-12,2022-03-04,2022-12-09,1,0,Post-Bivalent Dose (8+),Vedo/Uste,Pfizer,54,0
+100,14569,Positive,2023-03-16,7010,Female,CD,,2022-02-04,2022-09-22,0,1,Post-Bivalent Dose (8+),Vedo/Uste,Moderna,67,1
+101,5408,Positive,2022-03-17,7018,Male,CD,,2022-02-23,,0,1,Post-4th Dose (1-8),Vedo/Uste,Pfizer,36,0
+102,3128,Positive,2022-08-04,7018,Male,CD,,2022-02-23,,0,1,Post-4th Dose (8+),Vedo/Uste,Pfizer,36,0
+103,838,Positive,2022-05-30,7019,Male,CD,,2022-03-20,,0,1,Post-4th Dose (8+),Anti-TNF,Pfizer,62,0
+104,26566,Positive,2022-08-20,7022,Female,CD,2022-07-23,2022-04-15,2023-01-14,1,1,Post-4th Dose (8+),Anti-TNF,Moderna,43,0
+105,18888,Positive,2022-05-20,7022,Female,CD,2022-07-23,2022-04-15,2023-01-14,0,1,Post-4th Dose (1-8),Anti-TNF,Moderna,43,0
+106,50000,Positive,2022-10-11,7023,Female,CD,2021-03-23,2022-02-15,2022-09-22,1,1,Post-Bivalent Dose (1-8),Vedo/Uste,Moderna,49,0
+107,15085,Positive,2023-02-15,7023,Female,CD,2021-03-23,2022-02-15,2022-09-22,1,1,Post-Bivalent Dose (8+),Vedo/Uste,Moderna,49,0
+108,14624,Positive,2023-03-15,7026,Female,CD,2022-08-16,,2023-01-11,1,1,Post-Bivalent Dose (8+),No Immunosuppressives,Pfizer,63,0
+109,13654,Positive,2023-04-01,7027,Female,CD,2022-02-21,,2022-11-14,1,1,Post-Bivalent Dose (8+),Anti-TNF,Pfizer,51,0
+110,515,Positive,2022-05-11,7028,Female,CD,2022-05-30,2022-02-20,2022-11-15,0,1,Post-4th Dose (8+),Anti-TNF,Pfizer,61,0
+111,3711,Positive,2023-03-13,7030,Female,CD,2020-09-29,2022-03-11,2022-11-27,1,1,Post-Bivalent Dose (8+),Anti-TNF,Pfizer,58,0
+112,5929,Positive,2023-01-14,7030,Female,CD,2020-09-29,2022-03-11,2022-11-27,1,1,Post-Bivalent Dose (1-8),Anti-TNF,Pfizer,58,0
+113,9362,Positive,2023-03-15,7035,Female,CD,2022-04-09,2022-03-01,2022-10-21,1,1,Post-Bivalent Dose (8+),Anti-TNF,Moderna,42,0
+114,16404,Positive,2022-11-18,7035,Female,CD,2022-04-09,2022-03-01,2022-10-21,1,1,Post-Bivalent Dose (1-8),Anti-TNF,Moderna,42,0
+115,11975,Positive,2022-05-04,7043,Male,UC,,2022-04-13,2022-11-19,0,0,Post-4th Dose (1-8),Other,Pfizer,75,1
+116,2816,Positive,2022-06-20,7044,Female,CD,,2022-02-16,,0,1,Post-4th Dose (8+),Vedo/Uste,Pfizer,47,0
+117,16285,Positive,2022-08-02,7049,Female,CD,,2022-03-29,2022-10-03,0,1,Post-4th Dose (8+),Vedo/Uste,Pfizer,74,1
+118,50000,Positive,2022-04-21,7049,Female,CD,,2022-03-29,2022-10-03,0,1,Post-4th Dose (1-8),Vedo/Uste,Pfizer,74,1
+119,6792,Positive,2023-04-03,7056,Female,CD,2020-12-24,2022-03-04,2023-03-07,1,1,Post-Bivalent Dose (1-8),No Immunosuppressives,Pfizer,46,0
+120,50000,Positive,2023-03-22,7058,Male,UC,2022-07-13,2022-05-20,2023-01-06,1,0,Post-Bivalent Dose (8+),No Immunosuppressives,Moderna,38,0
+121,50000,Positive,2023-03-24,7067,Female,UC,2022-10-22,2022-03-12,2022-09-29,1,0,Post-Bivalent Dose (8+),Anti-TNF,Moderna,48,0
+122,17921,Positive,2022-10-21,7067,Female,UC,2022-10-22,2022-03-12,2022-09-29,0,0,Post-Bivalent Dose (1-8),Anti-TNF,Moderna,48,0
+123,3597,Positive,2022-06-20,7074,Male,CD,2021-05-12,2022-03-03,2022-10-26,1,1,Post-4th Dose (8+),Anti-TNF,Pfizer,54,0
+124,24265,Positive,2022-04-08,7074,Male,CD,2021-05-12,2022-03-03,2022-10-26,1,1,Post-4th Dose (1-8),Anti-TNF,Pfizer,54,0
+125,50000,Positive,2022-03-24,7104,Female,CD,2022-02-10,2022-02-24,,1,1,Post-4th Dose (1-8),Vedo/Uste,Pfizer,24,0
+126,50000,Positive,2022-07-20,7104,Female,CD,2022-02-10,2022-02-24,,1,1,Post-4th Dose (8+),Vedo/Uste,Pfizer,24,0
+127,5314,Positive,2022-12-19,7119,Male,CD,,2022-03-05,2022-11-18,0,1,Post-Bivalent Dose (1-8),Anti-TNF,Moderna,35,0
+128,30446,Positive,2022-05-17,7122,Male,CD,2021-02-09,2022-04-30,2022-10-27,1,1,Post-4th Dose (1-8),Vedo/Uste,Pfizer,59,0
+129,4395,Positive,2022-08-12,7122,Male,CD,2021-02-09,2022-04-30,2022-10-27,1,1,Post-4th Dose (8+),Vedo/Uste,Pfizer,59,0
+130,28780,Positive,2022-12-13,7126,Female,CD,,,2022-11-15,0,1,Post-Bivalent Dose (1-8),Vedo/Uste,Pfizer,53,0
+131,7799,Positive,2023-03-22,7126,Female,CD,,,2022-11-15,0,1,Post-Bivalent Dose (8+),Vedo/Uste,Pfizer,53,0
+132,50000,Positive,2023-02-11,7132,Female,UC,2022-05-10,2022-03-06,2022-10-01,1,0,Post-Bivalent Dose (8+),No Immunosuppressives,Moderna,39,0
+133,40000,Positive,2022-07-06,7134,Female,CD,,2022-03-23,,1,1,Post-4th Dose (8+),Anti-TNF,Pfizer,68,1
+134,17677,Positive,2022-04-12,7134,Female,CD,,2022-03-23,,0,1,Post-4th Dose (1-8),Anti-TNF,Pfizer,68,1
+135,22922,Positive,2023-02-07,7136,Female,CD,2022-12-05,,2022-11-20,1,1,Post-Bivalent Dose (8+),Anti-TNF,Pfizer,39,0
+136,38918,Positive,2023-02-22,7147,Female,UC,2022-06-15,,2022-10-17,1,0,Post-Bivalent Dose (8+),Vedo/Uste,Moderna,38,0
+137,50000,Positive,2022-11-15,7147,Female,UC,2022-06-15,,2022-10-17,1,0,Post-Bivalent Dose (1-8),Vedo/Uste,Moderna,38,0
+138,6574,Positive,2022-10-17,7153,Female,UC,,2022-02-15,2022-09-22,0,0,Post-Bivalent Dose (1-8),Other,Moderna,27,0
+139,8637,Positive,2023-03-13,7159,Female,CD,,2022-01-24,2022-11-04,0,1,Post-Bivalent Dose (8+),Anti-TNF,Pfizer,64,0
+140,25129,Positive,2022-12-01,7159,Female,CD,,2022-01-24,2022-11-04,0,1,Post-Bivalent Dose (1-8),Anti-TNF,Pfizer,64,0
+141,39417,Positive,2023-03-13,7175,Female,CD,2022-10-26,2022-05-16,2023-02-23,1,1,Post-Bivalent Dose (1-8),No Immunosuppressives,Pfizer,53,0
+142,26869,Positive,2022-12-22,7176,Female,CD,2022-07-26,2022-03-07,2022-11-21,1,1,Post-Bivalent Dose (1-8),Vedo/Uste,Pfizer,53,0
+143,1018,Positive,2022-07-04,7183,Female,UC,,2022-02-25,2023-01-25,0,0,Post-4th Dose (8+),Other,Moderna,56,0
+144,1471,Positive,2022-03-14,7183,Female,UC,,2022-02-25,2023-01-25,0,0,Post-4th Dose (1-8),Other,Moderna,56,0
+145,1991,Positive,2022-08-12,7191,Female,CD,,2022-02-15,,0,1,Post-4th Dose (8+),Anti-TNF,Pfizer,50,0
+146,3656,Positive,2022-02-28,7191,Female,CD,,2022-02-15,,0,1,Post-4th Dose (1-8),Anti-TNF,Pfizer,50,0
+147,23601,Positive,2022-04-04,7194,Female,CD,,2022-03-18,2022-10-26,0,1,Post-4th Dose (1-8),Anti-TNF,Pfizer,37,0
+148,7692,Positive,2022-08-11,7194,Female,CD,,2022-03-18,2022-10-26,0,1,Post-4th Dose (8+),Anti-TNF,Pfizer,37,0
+149,41948,Positive,2023-03-03,7195,Female,CD,,2022-02-16,2022-10-28,0,1,Post-Bivalent Dose (8+),Vedo/Uste,Pfizer,69,1
+150,27742,Positive,2023-03-31,7200,Male,CD,2021-01-27,2022-04-23,2022-11-23,1,1,Post-Bivalent Dose (8+),Vedo/Uste,Pfizer,75,1
+151,45321,Positive,2022-12-07,7200,Male,CD,2021-01-27,2022-04-23,2022-11-23,1,1,Post-Bivalent Dose (1-8),Vedo/Uste,Pfizer,75,1
+152,10751,Positive,2022-04-20,7203,Female,CD,,2022-03-28,,0,1,Post-4th Dose (1-8),Vedo/Uste,Pfizer,63,0
+153,15630,Positive,2022-08-19,7204,Male,CD,,2022-04-04,2022-12-14,0,1,Post-4th Dose (8+),Vedo/Uste,Pfizer,53,0
+154,11142,Positive,2022-05-20,7211,Male,CD,,2022-04-20,2022-09-29,0,1,Post-4th Dose (1-8),Anti-TNF,Pfizer,42,0
+155,2854,Positive,2023-02-24,7213,Female,CD,,2022-02-23,2023-01-16,0,1,Post-Bivalent Dose (1-8),No Immunosuppressives,Pfizer,62,0
+156,17041,Positive,2023-03-29,7220,Male,CD,2021-12-30,2022-04-11,2022-09-26,1,1,Post-Bivalent Dose (8+),Vedo/Uste,Moderna,46,0
+157,37487,Positive,2022-11-01,7220,Male,CD,2021-12-30,2022-04-11,2022-09-26,1,1,Post-Bivalent Dose (1-8),Vedo/Uste,Moderna,46,0
+158,50000,Positive,2022-11-14,7221,Female,CD,,,2022-10-24,1,1,Post-Bivalent Dose (1-8),Vedo/Uste,Pfizer,67,1
+159,30528,Positive,2023-03-09,7221,Female,CD,,,2022-10-24,1,1,Post-Bivalent Dose (8+),Vedo/Uste,Pfizer,67,1
+160,4347,Positive,2022-03-17,7223,Male,UC,,2022-02-22,2022-11-03,0,0,Post-4th Dose (1-8),Anti-TNF,Pfizer,25,0
+161,17073,Positive,2022-05-20,7232,Male,CD,,2022-04-26,2022-11-12,0,1,Post-4th Dose (1-8),Vedo/Uste,Pfizer,60,0
+162,8335,Positive,2023-02-03,7234,Male,CD,,2022-03-19,2022-09-27,0,1,Post-Bivalent Dose (8+),Other,Moderna,77,1
+163,20705,Positive,2022-10-24,7234,Male,CD,,2022-03-19,2022-09-27,0,1,Post-Bivalent Dose (1-8),Other,Moderna,77,1
+164,11570,Positive,2022-03-21,7238,Male,UC,2022-09-15,2022-02-23,2023-01-11,0,0,Post-4th Dose (1-8),Vedo/Uste,Pfizer,75,1
+165,2560,Positive,2022-07-04,7238,Male,UC,2022-09-15,2022-02-23,2023-01-11,0,0,Post-4th Dose (8+),Vedo/Uste,Pfizer,75,1
+166,35045,Positive,2023-01-26,7242,Male,UC,,,2022-11-22,1,0,Post-Bivalent Dose (8+),Vedo/Uste,Pfizer,58,0
+167,11547,Positive,2022-12-20,7244,Male,CD,,2022-02-11,2022-09-30,0,1,Post-Bivalent Dose (8+),Vedo/Uste,Moderna,76,1
+168,10268,Positive,2022-04-04,7247,Female,UC,2023-01-22,2022-03-02,2022-10-21,0,0,Post-4th Dose (1-8),Anti-TNF,Pfizer,68,1
+169,35943,Positive,2023-02-15,7249,Female,CD,,2022-06-10,2022-11-24,0,1,Post-Bivalent Dose (8+),Vedo/Uste,,78,1
+170,5046,Positive,2022-08-23,7254,Male,CD,,2022-04-16,2023-01-14,0,1,Post-4th Dose (8+),No Immunosuppressives,Pfizer,77,1
+171,24158,Positive,2022-05-16,7254,Male,CD,,2022-04-16,2023-01-14,0,1,Post-4th Dose (1-8),No Immunosuppressives,Pfizer,77,1
+172,3911,Positive,2023-03-24,7255,Female,CD,,2022-03-28,2022-11-03,0,1,Post-Bivalent Dose (8+),Anti-TNF,Pfizer,63,0
+173,50000,Positive,2023-01-12,7257,Male,CD,2022-05-11,,2022-12-02,1,1,Post-Bivalent Dose (1-8),No Immunosuppressives,Pfizer,38,0
+174,46441,Positive,2023-03-27,7258,Male,UC,2022-08-24,2022-05-09,2023-03-15,1,0,Post-Bivalent Dose (1-8),No Immunosuppressives,Pfizer,72,1
+175,20932,Positive,2022-06-06,7261,Female,CD,2022-08-08,2022-02-03,,0,1,Post-4th Dose (8+),Vedo/Uste,Pfizer,52,0
+176,50000,Positive,2023-04-18,7262,Female,UC,,,2022-11-30,1,0,Post-Bivalent Dose (8+),Vedo/Uste,Pfizer,38,0
+177,50000,Positive,2023-02-24,7264,Male,CD,2022-04-27,2022-07-30,2023-01-27,1,1,Post-Bivalent Dose (1-8),No Immunosuppressives,Pfizer,51,0
+178,11571,Positive,2023-03-08,7265,Male,CD,2022-01-03,2022-04-11,2023-02-20,1,1,Post-Bivalent Dose (1-8),No Immunosuppressives,Pfizer,52,0
+179,50000,Positive,2022-05-26,7268,Male,UC,2022-05-04,2022-04-12,,1,0,Post-4th Dose (1-8),Other,Pfizer,42,0
+180,33181,Positive,2022-05-06,7275,Male,UC,2022-04-21,2022-02-18,2022-10-27,1,0,Post-4th Dose (8+),Vedo/Uste,Moderna,64,0
+181,23285,Positive,2022-05-26,7276,Male,UC,,2022-04-25,,0,0,Post-4th Dose (1-8),Anti-TNF,Pfizer,68,1
+182,17864,Positive,2023-03-14,7277,Male,CD,2022-06-07,,2022-11-17,1,1,Post-Bivalent Dose (8+),Vedo/Uste,Pfizer,65,0
+183,50000,Positive,2022-12-06,7277,Male,CD,2022-06-07,,2022-11-17,1,1,Post-Bivalent Dose (1-8),Vedo/Uste,Pfizer,65,0
+184,19135,Positive,2022-08-16,7280,Female,CD,,2022-04-15,,0,1,Post-4th Dose (8+),Vedo/Uste,Moderna,56,0
+185,50000,Positive,2022-05-03,7280,Female,CD,,2022-04-15,,1,1,Post-4th Dose (1-8),Vedo/Uste,Moderna,56,0
+186,1255,Positive,2022-04-11,7283,Male,UC,2022-04-19,2022-01-24,,0,0,Post-4th Dose (8+),Other,Moderna,65,1
+187,25457,Positive,2023-03-13,7284,Female,CD,2023-02-10,2022-05-30,2022-10-28,1,1,Post-Bivalent Dose (8+),Anti-TNF,Pfizer,67,1
+188,4010,Positive,2023-02-01,7287,Male,CD,,2022-03-16,2022-09-22,0,1,Post-Bivalent Dose (8+),Vedo/Uste,Moderna,73,1
+189,12894,Positive,2022-10-13,7287,Male,CD,,2022-03-16,2022-09-22,0,1,Post-Bivalent Dose (1-8),Vedo/Uste,Moderna,73,1
+190,21812,Positive,2022-10-25,7290,Female,UC,2022-11-28,2022-04-21,2022-09-24,0,0,Post-Bivalent Dose (1-8),Vedo/Uste,Moderna,65,1
+191,50000,Positive,2023-02-14,7290,Female,UC,2022-11-28,2022-04-21,2022-09-24,1,0,Post-Bivalent Dose (8+),Vedo/Uste,Moderna,65,1
+192,50000,Positive,2022-04-01,7300,Male,CD,,2022-03-07,2022-12-29,0,1,Post-4th Dose (1-8),Vedo/Uste,Pfizer,58,0
+193,14148,Positive,2022-03-23,7301,Female,CD,,2022-02-12,,0,1,Post-4th Dose (1-8),Anti-TNF,Pfizer,26,0
+194,7515,Positive,2022-03-01,7305,Male,CD,,2022-02-08,2022-09-21,0,1,Post-4th Dose (1-8),Anti-TNF,Moderna,58,0
+195,3702,Positive,2022-06-03,7305,Male,CD,,2022-02-08,2022-09-21,0,1,Post-4th Dose (8+),Anti-TNF,Moderna,58,0
+196,3199,Positive,2022-08-17,7309,Male,UC,,2022-04-18,2022-12-20,1,0,Post-4th Dose (8+),Anti-TNF,Pfizer,71,1
+197,35575,Positive,2022-08-08,7310,Female,CD,2022-07-16,2022-04-06,,1,1,Post-4th Dose (8+),Vedo/Uste,Pfizer,41,0
+198,5249,Positive,2023-02-21,7316,Male,CD,2021-09-23,2022-07-29,2023-01-05,1,1,Post-Bivalent Dose (1-8),No Immunosuppressives,Moderna,58,0
+199,18656,Positive,2023-02-03,7328,Female,CD,,2022-02-11,2022-09-23,1,1,Post-Bivalent Dose (8+),No Immunosuppressives,Moderna,57,0
+200,44914,Positive,2022-11-02,7328,Female,CD,,2022-02-11,2022-09-23,1,1,Post-Bivalent Dose (1-8),No Immunosuppressives,Moderna,57,0
+201,903,Positive,2022-05-24,7332,Male,CD,,2022-02-07,,0,1,Post-4th Dose (8+),Other,Moderna,34,0
+202,40000,Positive,2022-10-14,7339,Female,CD,2022-04-19,,2022-09-29,1,1,Post-Bivalent Dose (1-8),Anti-TNF,Moderna,43,0
+203,45381,Positive,2023-03-29,7342,Female,UC,,,2022-10-14,1,0,Post-Bivalent Dose (8+),Vedo/Uste,Moderna,61,0
+204,41127,Positive,2022-11-30,7342,Female,UC,,,2022-10-14,0,0,Post-Bivalent Dose (1-8),Vedo/Uste,Moderna,61,0
+205,766,Positive,2023-03-16,7348,Female,CD,,2022-02-02,2022-10-24,0,1,Post-Bivalent Dose (8+),Anti-TNF,Pfizer,54,0
+206,9064,Positive,2022-11-22,7348,Female,CD,,2022-02-02,2022-10-24,0,1,Post-Bivalent Dose (1-8),Anti-TNF,Pfizer,54,0
+207,44667,Positive,2023-01-25,7360,Male,CD,2022-07-26,2022-02-02,2023-01-09,1,1,Post-Bivalent Dose (1-8),No Immunosuppressives,Moderna,68,1
+208,3130,Positive,2023-02-28,7364,Male,UC,,2022-03-18,2022-10-11,0,0,Post-Bivalent Dose (8+),No Immunosuppressives,Moderna,71,1
+209,34267,Positive,2022-11-02,7364,Male,UC,,2022-03-18,2022-10-11,0,0,Post-Bivalent Dose (1-8),No Immunosuppressives,Moderna,71,1
+210,9492,Positive,2022-08-11,7366,Female,CD,2021-01-27,2022-07-22,,1,1,Post-4th Dose (1-8),Anti-TNF,Moderna,56,0
+211,1702,Positive,2022-08-14,7371,Male,UC,2022-01-21,2022-04-24,2022-10-28,1,0,Post-4th Dose (8+),Other,Pfizer,66,1
+212,1031,Positive,2022-08-16,7373,Female,UC,,2022-04-12,2022-10-20,0,0,Post-4th Dose (8+),Anti-TNF,Pfizer,82,1
